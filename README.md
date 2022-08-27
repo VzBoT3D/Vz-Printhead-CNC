@@ -10,3 +10,8 @@ and extruders out there. With the height adjustable fan duct, you can easily cha
  -F3D racing in germany (Wordl wide shipping except Asia market)  https://f3d-racing-fdm.myshopify.com/
  
  -Mellow3D (Asia Market only) 
+ 
+
+## This project is licensed Non-commercial except for our authorized partners
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/37383368/187048918-d388e8f9-8f84-4fd7-b27f-d4f9ee766cb4.png">
+
