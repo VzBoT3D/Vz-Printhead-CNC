@@ -8,7 +8,7 @@ If you wish to upgrade your dragon to a Crazy Volcano:
 - (4xM2.5 5mm Ultra Low profile screws - To mount the Dragon to the Adapter plate)
 - (2xM3 6mm Ultra low profile screws - To attach to top plate (Not needed if you bolt it directly to top head when used with a longer heatblock)
 
-# Note: If you are using the standard size v6 heat bloc, you will have to use the the non-brace version of the dragon 2510 fan duct. Or use a normal V6 blue fan duct. If you use the volecomosq/nf crazy block, you can use the brace version.
+## Note: If you are using the standard size v6 heat bloc, you will have to use the the non-brace version of the dragon 2510 fan duct. Or use a normal V6 blue fan duct. If you use the volecomosq/nf crazy block, you can use the brace version.
 
 # Vcore 3
 ## (Note for Vcore3 users: Since the printhead is taller on Vcore3, you have to use the Crazy volcano heatbloc, or if you keep the standard V6 type heatbloc, you will have to use the Grove Mount adapter sold at F3D [here ](https://f3d-racing-fdm.myshopify.com/products/vzbot-mgn9-printhead-v6-groove-mount-pre-order). Or use a printed spacer found [here](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/Vcore3%20specific/Dragon%205mm%20spacer.stl). to have the hotend sit low enough to clear the par cooling fan duct.
