@@ -32,7 +32,7 @@ Also, you can re-use the Vcore original X switch with this [mount](https://githu
 # Step 4: Install the rear adjustable fan mount
 ![image](https://user-images.githubusercontent.com/37383368/144165782-2720e21d-af35-439d-a1e4-e043f39f8716.png)
 ## BOM needed:
-- 2 x M3 8mm Ultra low profile bolts
+- 2 x M3 8mm Ultra low profile bolts (or 2x6mm for the new version of the mount that has a groove for the M3 nuts)
 - 2 x M3 Nuts
 
 # Step 5: Install the belts.
