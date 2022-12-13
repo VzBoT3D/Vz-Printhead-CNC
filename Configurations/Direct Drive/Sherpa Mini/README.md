@@ -10,7 +10,7 @@
 
 ## Printed Version with inserts:
 
-4 M3 (M3x5x3) short brass inserts (Short inserts on Amazon: https://s.click.aliexpress.com/e/_9fczVr
-EU link: https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m3-short-100-stk-pcs
+- 4 M3 (M3x5x3) short brass inserts (Short inserts on Amazon: https://s.click.aliexpress.com/e/_9fczVr
+- EU link: https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m3-short-100-stk-pcs
 ![image](https://user-images.githubusercontent.com/37383368/156413885-a524e682-8a20-4c17-bcba-5b2c994a9b9d.png)
 
