@@ -3,7 +3,7 @@ Assembling the print head is straight forward.
 # Step 1 : Mounting the Fan and Cable holder.
 ![image](https://user-images.githubusercontent.com/37383368/144164913-77f6e690-bd68-4acc-98df-f23f697ef434.png)
 ## BOM needed:
-- 4xM3 6mm Ultra low profile bolts
+- 4xM3 6mm Ultra low profile bolts or button head (Button head should allow more tolerance between 2 bolt heads)
 - cable holder (printed)
 
 # Step 2 : Assembling the carriage
