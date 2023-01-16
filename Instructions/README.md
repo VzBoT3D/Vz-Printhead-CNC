@@ -69,7 +69,7 @@ Take a second well deserved rum shot. Please note that beer can be used in this 
 Loosen the 2 M3 8mm bolts, and ajust height according to your Hotend
 ![image](https://user-images.githubusercontent.com/37383368/144168574-4e82006d-b79b-4e37-b99f-34f7c00d5af3.png)
 
-# Step 9 : Install the 5015 fan
+# Step 9 : Install the 5015 fan  (BL touch is not recommended anymore on VzBoT)
 ![image](https://user-images.githubusercontent.com/37383368/144168824-7156b8d9-2fe7-4098-915b-31f145dcd3d1.png)
 ![image](https://user-images.githubusercontent.com/37383368/144168882-fc4419c9-49b1-4dae-bfeb-97a5b0f7b51a.png)
 ![image](https://user-images.githubusercontent.com/37383368/157687995-3fd05f2c-27e8-4a83-980b-1fac1bc3e35d.png)
