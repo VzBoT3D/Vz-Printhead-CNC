@@ -69,10 +69,15 @@ Take a second well deserved rum shot. Please note that beer can be used in this 
 Loosen the 2 M3 8mm bolts, and ajust height according to your Hotend
 ![image](https://user-images.githubusercontent.com/37383368/144168574-4e82006d-b79b-4e37-b99f-34f7c00d5af3.png)
 
-# Step 9 : Install the 5015 fan with optional BL Touch mount (More probe type will be supported later)
+# Step 9 : Install the 5015 fan
 ![image](https://user-images.githubusercontent.com/37383368/144168824-7156b8d9-2fe7-4098-915b-31f145dcd3d1.png)
 ![image](https://user-images.githubusercontent.com/37383368/144168882-fc4419c9-49b1-4dae-bfeb-97a5b0f7b51a.png)
 ![image](https://user-images.githubusercontent.com/37383368/157687995-3fd05f2c-27e8-4a83-980b-1fac1bc3e35d.png)
+## BOM needed:
+- 1 x M3 20mm bolt - (For right side of the fan when you face printer )
+- 1 x M3 25mm bolt - (for left side  Please note the left side bolt orientation is different to clear the belt)
+- 1 M3 8mm (upper fan duct brace)
+- 3 x M3 Nuts
 
 # Optional : Tri horn fan duct with brace (useful when running a z probe sensor)
 If you find that your fan duct is not stiff enough and move after a while, this mod of the fan [duct](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/fan%20duct%20lower%20body-trihorn%20with%20brace.stl) is for you. Scale the [spacers](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/fan%20duct%20lower%20body-brace%20Z%20scalable%20spacers.stl) according the the height needed.
@@ -80,28 +85,15 @@ If you find that your fan duct is not stiff enough and move after a while, this 
 (If you wish to run CPAP, refer to the CPAP section)
 
 
-
 # Optional : Rear pillar brace
 If you do not need to bring the fan all the way down, you can print and install this little [BRACE](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/Rear%20pillar%20brace.stl) that will help secure the cable mount in place
 ![image](https://user-images.githubusercontent.com/37383368/173377071-cb560330-bb4c-449d-8ee5-06435b12b3f9.png)
 
-# Optional : Klicky and Quickdraw probe: 
-Fan duck with probe: [Here](https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in-combination-with-the-klicky-probedi-jlas1-and-quickdraw-systems-of-annex-1?fbclid=IwAR16A_0Nun4rFj4dr5-l7O6l62gWpChDlT06tSl2N-mH0tbDB2Qwea59Pus)
-Docking system: [Here](https://grabcad.com/library/contribution-to-the-retractable_probe_dock-for-klicky-probe-and-quickdraw-probe-system-for-voron-of-tronfu-adapted-to-vzbotrobe-per-voron-di-tronfu-riadattato-alla-vzbot-1?fbclid=IwAR31FLcYtxWH4eCrtFb1iTl6fMMfGeksUfxyhcuGlu9bqLtTKSHHada0CzA)
-![image](https://user-images.githubusercontent.com/37383368/176207407-0eb39f79-caba-44fd-b1ec-83fbe20a3baf.png)
-![image](https://user-images.githubusercontent.com/37383368/176208539-eac2eba9-f4ca-4651-94b0-fdf6f2e59ec2.png)
+# Optional : [Quickdraw probe](https://github.com/VzBoT3D/VzBoT-UserMods/tree/master/pbsuper/Quickdraw)
+![image](https://user-images.githubusercontent.com/37383368/212756511-e4c1a8ec-659b-4e44-9691-fc13990b6285.png)
 
 
 
-## BOM needed:
-(No probe):
-- 1 x M3 20mm bolt - (For right side of the fan when you face printer - When NOT using probe)
-- 1 x M3 25mm bolt - (for left side  Please note the left side bolt orientation is different to clear the belt)
-- 1 M3 8mm (upper fan duct brace)
-- 3 x M3 Nuts
-(With probe):
-- 2 x M3 25mm bolt - (Please note the left side bolt orientation is different to clear the belt)
-- 1 x M3 8mm (upper fan duct brace)
-- 2 x M3 6mm (Bltouch mount
+
 
 
