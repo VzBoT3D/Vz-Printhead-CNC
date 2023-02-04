@@ -19,7 +19,8 @@ The Goliath mounts the same way as a rapido hotend. 4 M2.5 bolts using the adapt
 
 
 ## Optional Lower Goliath brace:
-<img width="743" alt="image" src="https://user-images.githubusercontent.com/37383368/216786150-02b3fa3a-365a-4ae6-93cf-5ab7677b3879.png">
+<img width="717" alt="image" src="https://user-images.githubusercontent.com/37383368/216786257-c94a6550-251a-4e6b-9cd1-4f42d7669667.png">
+
 
 
 - One could add Titanium sheet of 0.3mm sheet to brace at the nozzle to help stabilize the whole hotend. The 0.3mm sheet is easy to cut with kitchen cisor.
