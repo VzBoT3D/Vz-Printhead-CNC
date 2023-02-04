@@ -18,7 +18,8 @@ The Goliath mounts the same way as a rapido hotend. 4 M2.5 bolts using the adapt
 
 
 ## Optional Lower Goliath brace:
-<img width="620" alt="image" src="https://user-images.githubusercontent.com/37383368/210024894-6e285606-0fda-401e-9a97-cd553ec950ff.png">
+<img width="743" alt="image" src="https://user-images.githubusercontent.com/37383368/216786150-02b3fa3a-365a-4ae6-93cf-5ab7677b3879.png">
+
 
 - One could add Titanium sheet of 0.3mm sheet to brace at the nozzle to help stabilize the whole hotend. The 0.3mm sheet is easy to cut with kitchen cisor.
 - Use the printed template [here](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/Goliath%20lower%20Titanium%20brace%20template.stl) to cut your brace 
