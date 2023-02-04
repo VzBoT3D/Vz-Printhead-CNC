@@ -1,7 +1,8 @@
 # Goliath
 The Goliath mounts the same way as a rapido hotend. 4 M2.5 bolts using the adapter plate. (same with both Air and Water Cooled)
 
-<img width="871" alt="image" src="https://user-images.githubusercontent.com/37383368/210024470-4b9174e5-1c98-4bdd-bfbc-0309075fcacb.png">
+<img width="787" alt="image" src="https://user-images.githubusercontent.com/37383368/216786318-39ce26d4-aecc-4c38-9a4d-64d1e128ad93.png">
+
 (4xM2.5 6mm bolts)
 
 ### Hardware needed:
@@ -19,7 +20,7 @@ The Goliath mounts the same way as a rapido hotend. 4 M2.5 bolts using the adapt
 
 
 ## Optional Lower Goliath brace:
-<img width="717" alt="image" src="https://user-images.githubusercontent.com/37383368/216786257-c94a6550-251a-4e6b-9cd1-4f42d7669667.png">
+<img width="676" alt="image" src="https://user-images.githubusercontent.com/37383368/216786269-136a197a-645b-440c-9d85-f29d2c38d94c.png">
 
 
 
