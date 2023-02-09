@@ -92,6 +92,10 @@ If you do not need to bring the fan all the way down, you can print and install 
 # Optional : [Quickdraw probe](https://github.com/VzBoT3D/VzBoT-UserMods/tree/master/pbsuper/Quickdraw)
 ![image](https://user-images.githubusercontent.com/37383368/212756511-e4c1a8ec-659b-4e44-9691-fc13990b6285.png)
 
+# Optional : 8mm inductive probe:
+<img width="893" alt="image" src="https://user-images.githubusercontent.com/37383368/217688486-43440a9b-0184-4333-9c5c-c8304e4d9734.png">
+
+
 
 
 
