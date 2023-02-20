@@ -71,8 +71,7 @@ Loosen the 2 M3 8mm bolts, and ajust height according to your Hotend
 
 # Step 9 : Install the 5015 fan  (BL touch is not recommended anymore on VzBoT)
 ![image](https://user-images.githubusercontent.com/37383368/144168824-7156b8d9-2fe7-4098-915b-31f145dcd3d1.png)
-![image](https://user-images.githubusercontent.com/37383368/144168882-fc4419c9-49b1-4dae-bfeb-97a5b0f7b51a.png)
-![image](https://user-images.githubusercontent.com/37383368/157687995-3fd05f2c-27e8-4a83-980b-1fac1bc3e35d.png)
+
 ## BOM needed:
 - 1 x M3 20mm bolt - (For right side of the fan when you face printer )
 - 1 x M3 25mm bolt - (for left side  Please note the left side bolt orientation is different to clear the belt)
@@ -89,15 +88,4 @@ If you find that your fan duct is not stiff enough and move after a while, this 
 If you do not need to bring the fan all the way down, you can print and install this little [BRACE](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/Rear%20pillar%20brace.stl) that will help secure the cable mount in place
 ![image](https://user-images.githubusercontent.com/37383368/173377071-cb560330-bb4c-449d-8ee5-06435b12b3f9.png)
 
-# Optional : [Quickdraw probe](https://github.com/VzBoT3D/VzBoT-UserMods/tree/master/pbsuper/Quickdraw)
-![image](https://user-images.githubusercontent.com/37383368/212756511-e4c1a8ec-659b-4e44-9691-fc13990b6285.png)
-
-# Optional : 8mm inductive probe:
-<img width="893" alt="image" src="https://user-images.githubusercontent.com/37383368/217688486-43440a9b-0184-4333-9c5c-c8304e4d9734.png">
-
-
-
-
-
-
-
+# Optional : PROBE  see all options [here](https://github.com/VzBoT3D/Vz-Printhead-CNC/tree/main/STLs/Probe%20mounts)
