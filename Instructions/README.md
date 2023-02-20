@@ -88,4 +88,4 @@ If you find that your fan duct is not stiff enough and move after a while, this 
 If you do not need to bring the fan all the way down, you can print and install this little [BRACE](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/Rear%20pillar%20brace.stl) that will help secure the cable mount in place
 ![image](https://user-images.githubusercontent.com/37383368/173377071-cb560330-bb4c-449d-8ee5-06435b12b3f9.png)
 
-# Optional : PROBE  see all options [here](/tree/main/STLs/Probe%20mounts)
+# Optional : PROBE  see all options [here]([/tree/main/STLs/Probe%20mounts](https://github.com/VzBoT3D/Vz-Printhead-CNC/tree/main/STLs/Probe%20mounts)
