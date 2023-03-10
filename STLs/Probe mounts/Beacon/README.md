@@ -15,6 +15,11 @@ Beacon Sensor needs to be between 2mm and 2.6mm from the nozzle tip. So you will
 
 <img width="1071" alt="image" src="https://user-images.githubusercontent.com/37383368/219797821-8ba91ed2-f33f-4504-8bbd-16ef6ae75e28.png">
 
+## Probe Offset:
+X:0 Y:27.065
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/37383368/224376420-58690848-4506-4d61-a6f3-0e9b339eb747.png">
+
+
 
 
 
