@@ -2,6 +2,7 @@ Beacon Sensor needs to be between 2mm and 2.6mm from the nozzle tip. So you will
 <img width="1062" alt="image" src="https://user-images.githubusercontent.com/37383368/219794565-2839fb28-6966-4a29-ba44-c32ee03703d1.png">
 
 ### Please note that if you use a 5015 Fan, you need the included modified upper duct that will clear the Beacon connector here
+<img width="752" alt="image" src="https://user-images.githubusercontent.com/37383368/226363593-1075ba5f-62ea-4ff8-91f6-978f5eeea552.png">
 
 ## Below are the lenght of spacers to print according to hotend. BUT, it is always best to measure with your current setup because nozzle sizes may/will be different than the cad version depending on the brand/type used. 
 
