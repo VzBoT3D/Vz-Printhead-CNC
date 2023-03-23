@@ -6,7 +6,10 @@ Beacon Sensor needs to be between 2mm and 2.6mm from the nozzle tip. So you will
 
 ## Below are the lenght of spacers to print according to hotend. BUT, it is always best to measure with your current setup because nozzle sizes may/will be different than the cad version depending on the brand/type used. 
 
-(Those measurement are for VzBoT. For RatRig, substract 4.15mm)
+```diff
+-(Those measurement are for VzBoT. For RatRig, substract 4.15mm)
+```
+
 | Hotend | Spacer lenght  |
 | ------ | ----           |
 |Goliath long version (Goliath with it's heatsink)| 23.15mm |
