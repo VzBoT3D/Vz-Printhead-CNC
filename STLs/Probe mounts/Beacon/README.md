@@ -1,3 +1,5 @@
+Use a drop of Blue loctite on the screws holding the Beacon onto the duct.
+
 Beacon Sensor needs to be between 2mm and 2.6mm from the nozzle tip. So you will have to print your scalable fan duct spacer/standoffs with the correct heigh depending on your hotend
 <img width="1062" alt="image" src="https://user-images.githubusercontent.com/37383368/219794565-2839fb28-6966-4a29-ba44-c32ee03703d1.png">
 
