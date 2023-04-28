@@ -9,7 +9,7 @@ The Goliath mounts the same way as a rapido hotend. 4 M2.5 bolts using the adapt
 - (4xM2.5 5mm Ultra Low profile screws - To mount to the Adapter plate)	
 - (2xM3 6mm Ultra low profile screws - To attach to top plate)
 
-### (More infos found on the Goliath github: https://github.com/VzBoT3D/Goliath/tree/main/Installation)
+### (More infos found on the Goliath github [here](https://github.com/VzBoT3D/Goliath))
 
 ## The fan duct is a high flow duct that has braces to the bottom plate of the carriage. It greatly help in rigidity. 
 
