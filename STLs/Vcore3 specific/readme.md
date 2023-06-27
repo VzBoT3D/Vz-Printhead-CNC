@@ -1,1 +1,1 @@
-Fant duct Goliath short doesn't work in combo with a Goliath Short Watercooled.
+  Please note that the fan duct Goliath short will not fit if you use the Goliath in it's short version. It will only work with Goliath when used with it's heatsink in a long format or with other hotends
