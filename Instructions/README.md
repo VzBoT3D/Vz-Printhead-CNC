@@ -43,6 +43,9 @@ Also, you can re-use the Vcore original X switch with this [mount](https://githu
 - For the back, simply loop the belt arround the pillar, and give it a pre-tention on the belt, then attach it with a zip tie, or a printed belt clip (Found in the [STL](https://github.com/VzBoT3D/Vz-Printhead/tree/main/STLs) folder) . [belt clip](https://github.com/VzBoT3D/Vz-Printhead/blob/main/STLs/Belt_clip.stl)
 - [![belts-installation](https://user-images.githubusercontent.com/37383368/146992012-26b7d4e9-f979-4afb-9dfe-6e3e31b0ecac.jpg))](https://youtu.be/Ibi27Toh-pg)
 - (For Vz235, you can use 2 techniques described here in this [video](https://www.youtube.com/watch?v=lP59PClF_PU&t=3334s). For the optional 2 piece clips, here they [are](https://github.com/VzBoT3D/VzBoT-Vz235/tree/main/Assemblies%20%26%20STL/Gantry/Misc))
+- Vz235: - <img width="259" alt="image" src="https://github.com/VzBoT3D/Vz-Printhead-CNC/assets/37383368/38855b3e-2bab-4c7d-9040-b1c6f248c3c1">
+
+
 
 
 
