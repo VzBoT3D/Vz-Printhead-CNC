@@ -16,7 +16,9 @@ The official tool head is produced by 2 main partners:
 
 ## License
 
-This project is licensed under the Creative Commons Share-Alike Non-Commercial license. Exceptions apply only for our approved distributors and manufacturers.
+This project is licensed under the Creative Commons BY Non-Commercial (CC BY-NC 4.0) license. Exceptions apply only for our approved distributors and manufacturers.
+
+https://creativecommons.org/licenses/by-nc/4.0/
 
 <img width="389" alt="image" src="https://user-images.githubusercontent.com/37383368/187048918-d388e8f9-8f84-4fd7-b27f-d4f9ee766cb4.png">
 
