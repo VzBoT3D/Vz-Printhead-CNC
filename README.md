@@ -6,10 +6,9 @@ and extruders out there. With the height adjustable fan duct, you can easily cha
 ![IMG_8273](https://user-images.githubusercontent.com/37383368/187105353-657cd083-950b-49dd-8772-5d5d4ec92844.jpg)
 
 
-## The official tool head is produced by our 2 main partners.
- -F3D racing in germany (World wide shipping except Asia market)  https://f3d-racing-fdm.myshopify.com/
- 
- -Mellow3D (Asia Market only) 
+## The official tool head is produced by our main partner.
+
+ -Mellow3D 
  
 
 ## This project is licensed Non-commercial except for our authorized partners
