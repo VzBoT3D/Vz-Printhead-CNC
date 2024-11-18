@@ -9,7 +9,7 @@ This duct was designed to fit with Goliath short and watercooled Vz-Hextrudort. 
 
 BOM:
 
--4 X Heat insert M3 3mm X 4.5mm
--M3 6mm Bolt (to mount to dancing man)
--M3 12mm Bolt (to mount under the printhead. Or longer bolts + spacers if you use a different hotend)
+- 4 X Heat insert M3 3mm X 4.5mm 
+- M3 6mm Bolt (to mount to dancing man) 
+- M3 12mm Bolt (to mount under the printhead. Or longer bolts + spacers if you use a different hotend) 
 
