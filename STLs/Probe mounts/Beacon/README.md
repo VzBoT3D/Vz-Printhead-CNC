@@ -1,3 +1,8 @@
+## Files:
+- [fan duct lower Goliath short with beacon](https://github.com/VzBoT3D/Vz-Printhead-Printed/blob/8fa5f25dd6bafc665b5bc46ed185c3017a9f3841/STLs/Probe%20mounts/Beacon/Goliath%20short%20duct%20Beacon.stl)
+- [spacer](https://github.com/VzBoT3D/Vz-Printhead-CNC/blob/3bfdcdb40dfe074a3cc3786f3ffca8f56e27c0d0/STLs/fan%20duct%20lower%20Goliath%20spacers.stl)
+
+## Instructions:
 Use a drop of Blue loctite on the screws holding the Beacon onto the duct.
 
 Beacon Sensor needs to be between 2mm and 2.6mm from the nozzle tip. So you will have to print your scalable fan duct spacer/standoffs with the correct heigh depending on your hotend
@@ -6,7 +11,8 @@ Beacon Sensor needs to be between 2mm and 2.6mm from the nozzle tip. So you will
 ### Please note that if you use a 5015 Fan, you need the included modified upper duct that will clear the Beacon connector here
 <img width="752" alt="image" src="https://user-images.githubusercontent.com/37383368/226363593-1075ba5f-62ea-4ff8-91f6-978f5eeea552.png">
 
-## Below are the lenght of spacers to print according to hotend. BUT, it is always best to measure with your current setup because nozzle sizes may/will be different than the cad version depending on the brand/type used. 
+Below are the **lengths of spacers** to print according to the hotend.  
+⚠️ **Important:** It is always best to **measure with your current setup**, as nozzle sizes may/will differ from the CAD version depending on the **brand/type used**.
 
 ```diff
 -(Those measurement are for VzBoT. For RatRig, substract 4.15mm)
